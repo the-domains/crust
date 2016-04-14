@@ -1,4 +1,4 @@
-name: crust
+name: Crusten
 favicon: null
 layout_spectrum: 0.9463088731281459
 typography_spectrum: 0.06431
@@ -23,7 +23,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0
-  lightness: 0.8125
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0
 purpose: []
