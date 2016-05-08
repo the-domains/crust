@@ -1,29 +1,18 @@
-name: Crusten
-favicon: null
-layout_spectrum: 0.59426
-typography_spectrum: 0.06543
-title: Crusten
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#271418'
-    - '#d0dcd2'
-    - '#d9532f'
-    - '#378085'
-    - '#9b9294'
+    - '#915E0F'
+    - '#393C43'
+    - '#D73948'
+    - '#CDE0DE'
+    - '#F1CD39'
   brandStrength: 0.5
   lightness: 0
-  saturation: 0.75
   rhythmicContrast: 0.5
+  saturation: 0.75
+cta: {}
+layout_spectrum: 0.59426
+name: Crusten
+opengraph: {}
 purpose: []
+typography_spectrum: 0.06543
