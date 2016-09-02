@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.06543
 color:
   brandColors:
     - '#915E0F'
@@ -10,9 +10,10 @@ color:
   lightness: 0
   rhythmicContrast: 0.5
   saturation: 0.75
-cta: {}
-layout_spectrum: 0.59426
-name: Crusten
 opengraph: {}
+layout_spectrum: 0.59426
+analytics: {}
+name: Crusten
+cta: {}
+title: CRUSTEN
 purpose: []
-typography_spectrum: 0.06543
